@@ -1,0 +1,6 @@
+step,started,seconds,rows_in,rows_out,skipped
+load_raw,2026-11-24T20:34:48,27.0,,74126,False
+quality,2026-11-24T20:35:37,1.0,74126,6,False
+load_raw,2026-11-24T20:43:08,7.5,,74126,True
+quality,2026-11-24T20:43:16,1.4,74126,6,False
+leakage,2026-11-24T20:43:18,779.5,67757,0,False

@@ -1,13 +1,15 @@
-step,started,seconds,rows_in,rows_out,skipped
-load_raw,2026-11-24T20:34:48,27.0,,74126,False
-quality,2026-11-24T20:35:37,1.0,74126,6,False
-load_raw,2026-11-24T20:43:08,7.5,,74126,True
-quality,2026-11-24T20:43:16,1.4,74126,6,False
-leakage,2026-11-24T20:43:18,779.5,67757,0,False
-baselines_extractive,2026-11-24T21:25:51,4.5,500,,False
-baseline_zero_shot,2026-11-24T21:26:25,836.1,500,,False
-load_raw,2026-11-25T10:27:43,19.7,,74126,True
-train_qlora_r16_attn,2026-11-25T10:35:55,400.1,2000,,False
-train_qlora_r16_attn,2026-11-25T11:08:13,1692.4,2000,,False
-load_raw,2026-11-25T11:51:19,5.1,,74126,True
-eval_qlora_r16_attn,2026-11-25T11:56:02,771.1,500,,False
+step	started	seconds	rows_in	rows_out	skipped
+load_raw	2026-11-24 20:34:48	27		74126	FALSE
+quality	2026-11-24 20:35:37	1	74126	6	FALSE
+load_raw	2026-11-24 20:43:08	7.5		74126	TRUE
+quality	2026-11-24 20:43:16	1.4	74126	6	FALSE
+leakage	2026-11-24 20:43:18	779.5	67757	0	FALSE
+baselines_extractive	2026-11-24 21:25:51	4.5	500		FALSE
+baseline_zero_shot	2026-11-24 21:26:25	836.1	500		FALSE
+load_raw	2026-11-25 10:27:43	19.7		74126	TRUE
+train_qlora_r16_attn	2026-11-25 10:35:55	400.1	2000		FALSE
+train_qlora_r16_attn	2026-11-25 11:08:13	1692.4	2000		FALSE
+load_raw	2026-11-25 11:51:19	5.1		74126	TRUE
+eval_qlora_r16_attn	2026-11-25 11:56:02	771.1	500		FALSE
+train_qlora_r16_all	2026-11-25 12:31:55	2648.9	2000		FALSE
+eval_qlora_r16_all	2026-11-25 13:16:07	736.3	500		FALSE

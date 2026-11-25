@@ -1,0 +1,6 @@
+method,share_with_halluc,entities_per_doc
+lead3,0.0,0.0
+textrank,0.0,0.0
+zero_shot,0.228,0.3
+qlora_r16_attn,0.2,0.268
+qlora_r16_all,0.2,0.274

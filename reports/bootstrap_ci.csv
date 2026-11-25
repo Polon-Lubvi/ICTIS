@@ -1,0 +1,16 @@
+method,metric,mean,ci_low,ci_high,p_better_zero_shot
+lead3,rouge1,0.253,0.245,0.2616,1.0
+lead3,rouge2,0.0946,0.0879,0.1014,1.0
+lead3,rougeL,0.1755,0.1687,0.1825,1.0
+textrank,rouge1,0.1998,0.1932,0.2065,0.0
+textrank,rouge2,0.0497,0.0448,0.0549,0.0
+textrank,rougeL,0.1329,0.1275,0.1383,0.0
+zero_shot,rouge1,0.2314,0.224,0.2389,0.0
+zero_shot,rouge2,0.0696,0.0645,0.0749,0.0
+zero_shot,rougeL,0.1585,0.1528,0.1644,0.0
+qlora_r16_attn,rouge1,0.2309,0.2228,0.2383,0.483
+qlora_r16_attn,rouge2,0.0759,0.0694,0.082,0.987
+qlora_r16_attn,rougeL,0.165,0.1585,0.1718,0.974
+qlora_r16_all,rouge1,0.2311,0.2226,0.2396,0.491
+qlora_r16_all,rouge2,0.0758,0.0696,0.0824,0.981
+qlora_r16_all,rougeL,0.1655,0.1591,0.1728,0.975

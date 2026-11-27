@@ -4,3 +4,6 @@ textrank,0.0,0.0
 zero_shot,0.228,0.3
 qlora_r16_attn,0.2,0.268
 qlora_r16_all,0.2,0.274
+qlora_r8_attn,0.22,0.276
+lora_r16_attn,0.214,0.272
+qlora_r8_multi,0.204,0.28

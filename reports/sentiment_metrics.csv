@@ -1,3 +1,5 @@
 method,macro_f1,f1_pn,macro_f1_org,sec_per_doc
-tfidf_logreg,0.5333,0.4171,0.551,0.0005
 rubert_tiny,0.3607,0.1422,0.3766,0.01897
+tfidf_logreg,0.5333,0.4171,0.551,0.0006
+zero_shot_qwen,0.3848,0.3657,0.3993,0.04089
+qlora_r8_multi,0.49,0.3809,0.4704,0.04099

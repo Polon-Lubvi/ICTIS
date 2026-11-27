@@ -1,6 +1,6 @@
 method,doc,type,entity
-zero_shot,8,LOC,украина
 zero_shot,8,LOC,киев
+zero_shot,8,LOC,украина
 zero_shot,8,PER,денис шмыгаль
 zero_shot,12,ORG,генпрокуратура
 zero_shot,13,ORG,массачусетская больница
@@ -14,16 +14,16 @@ zero_shot,52,ORG,новоалтайская больница
 zero_shot,55,ORG,газета. ru
 zero_shot,56,ORG,тюменский государственный университет
 zero_shot,62,ORG,корейская народная держава
-zero_shot,74,PER,дмитрий гурий
 zero_shot,74,ORG,слуги народ
+zero_shot,74,PER,дмитрий гурий
 zero_shot,74,PER,гурий
 zero_shot,76,LOC,евросоюз
 zero_shot,77,ORG,совет европа (се)
 zero_shot,78,ORG,федеральная служба защита конституция
 zero_shot,79,ORG,klaipėdos nafta
 zero_shot,82,ORG,демократическая администрация
-zero_shot,84,LOC,евросоюз
 zero_shot,84,ORG,совет европейский союз
+zero_shot,84,LOC,евросоюз
 zero_shot,96,ORG,youtube
 zero_shot,98,ORG,владимирский нпз
 zero_shot,101,LOC,россия
@@ -33,10 +33,10 @@ zero_shot,107,ORG,министерство сельское хозяйство
 zero_shot,110,LOC,россия
 zero_shot,124,ORG,твиттер
 zero_shot,126,PER,максим марцинкевич (тесак)
-zero_shot,129,ORG,агентство по обеспечение
-zero_shot,129,ORG,госдепартамент
-zero_shot,129,ORG,министерство внутренние дела
 zero_shot,129,ORG,национальное управление ядерная безопасность
+zero_shot,129,ORG,агентство по обеспечение
+zero_shot,129,ORG,министерство внутренние дела
+zero_shot,129,ORG,госдепартамент
 zero_shot,138,ORG,совет национальная безопасность и оборона
 zero_shot,139,PER,андрей губин тарас ващишин
 zero_shot,140,LOC,сша
@@ -51,8 +51,8 @@ zero_shot,163,LOC,россия
 zero_shot,167,LOC,антантом
 zero_shot,176,PER,владимир путин
 zero_shot,179,PER,лену
-zero_shot,181,PER,фирсы
 zero_shot,181,PER,карпы
+zero_shot,181,PER,фирсы
 zero_shot,188,ORG,всемирная организация здравоохранение
 zero_shot,191,ORG,"государственная научно-производственной корпорация ""вымпел"
 zero_shot,193,ORG,международный информационный банк
@@ -62,17 +62,17 @@ zero_shot,204,PER,дейвиона
 zero_shot,205,LOC,европейский союз
 zero_shot,211,PER,угандский
 zero_shot,213,ORG,министерство финансов
-zero_shot,216,ORG,интерфакс
-zero_shot,216,PER,владимир путин
 zero_shot,216,LOC,россия
+zero_shot,216,PER,владимир путин
+zero_shot,216,ORG,интерфакс
 zero_shot,225,ORG,либерально-демократическая партия
 zero_shot,229,PER,астрэзенек
+zero_shot,229,LOC,еврокомиссия
 zero_shot,229,ORG,астрэзенeca
 zero_shot,229,ORG,еврокомиссия
-zero_shot,229,LOC,еврокомиссия
 zero_shot,233,PER,дмитрий медведев
-zero_shot,233,ORG,министерство природа
 zero_shot,233,LOC,рф
+zero_shot,233,ORG,министерство природа
 zero_shot,242,ORG,федеральная антимонопольная служба (фас)
 zero_shot,242,LOC,рф
 zero_shot,248,LOC,россия
@@ -92,41 +92,41 @@ zero_shot,304,ORG,тамбовский партизанский край
 zero_shot,305,LOC,сша
 zero_shot,310,PER,гладкиха
 zero_shot,320,ORG,министерство здравоохранение
-zero_shot,324,ORG,госдепартамент
 zero_shot,324,LOC,сша
 zero_shot,324,PER,джон болтон
+zero_shot,324,ORG,госдепартамент
 zero_shot,325,ORG,прг
 zero_shot,336,ORG,всемирная организация здравоохранение (воз)
 zero_shot,340,PER,алексей шишкин
 zero_shot,341,LOC,ахой
 zero_shot,342,ORG,общественная палата
-zero_shot,343,PER,белтелерадиокомпания
 zero_shot,343,LOC,беларусь
-zero_shot,346,PER,сергей цивилев
+zero_shot,343,PER,белтелерадиокомпания
 zero_shot,346,LOC,дом святая марф
+zero_shot,346,PER,сергей цивилев
 zero_shot,349,ORG,челябинское сизо
 zero_shot,350,ORG,трехсторонняя контактная группа
 zero_shot,351,LOC,иордания
 zero_shot,351,PER,навартола беннет
 zero_shot,351,PER,джо байден
 zero_shot,354,ORG,торгово-промышленная палата (тпп)
-zero_shot,355,PER,ответчицей
 zero_shot,355,LOC,подмосковье
+zero_shot,355,PER,ответчицей
 zero_shot,361,LOC,багот
 zero_shot,366,ORG,калифорнийский технологический институт
 zero_shot,373,ORG,фмс
 zero_shot,373,PER,рейтнотекс
 zero_shot,373,PER,боинг
-zero_shot,374,ORG,"тольяттиазот"" (томет)"
 zero_shot,374,ORG,"тольяттиазот"" (тоаз)"
+zero_shot,374,ORG,"тольяттиазот"" (томет)"
 zero_shot,375,ORG,международная космическая станция (мкс)
-zero_shot,380,LOC,новосибирская
 zero_shot,380,LOC,калужская области
-zero_shot,380,LOC,костромская
+zero_shot,380,LOC,новосибирская
 zero_shot,380,LOC,рязанская
+zero_shot,380,LOC,костромская
 zero_shot,384,LOC,луганская народная республика
-zero_shot,390,ORG,служба безопасность украина (сбу)
 zero_shot,390,PER,олег скрипка
+zero_shot,390,ORG,служба безопасность украина (сбу)
 zero_shot,397,PER,арсений аваков
 zero_shot,398,PER,энвер-пашой
 zero_shot,399,ORG,первоначальный союз
@@ -139,14 +139,14 @@ zero_shot,425,PER,владимир путин
 zero_shot,427,ORG,государственный дума
 zero_shot,431,ORG,международное энергетическое агентство
 zero_shot,448,LOC,india
-zero_shot,453,LOC,россия
 zero_shot,453,LOC,курильские остров
+zero_shot,453,LOC,россия
 zero_shot,457,LOC,турция
 zero_shot,457,LOC,китай
 zero_shot,468,ORG,министерство экономическое развитие
 zero_shot,471,ORG,нато
-zero_shot,474,ORG,министерство здравоохранение
 zero_shot,474,LOC,россия
+zero_shot,474,ORG,министерство здравоохранение
 zero_shot,487,PER,кристоф рэй
 zero_shot,496,ORG,pavarotti durov
 qlora_r16_attn,5,LOC,ростов великом
@@ -156,9 +156,9 @@ qlora_r16_attn,24,ORG,совет федерация
 qlora_r16_attn,32,ORG,национальная ассоциация профессиональные коллекторские агентства
 qlora_r16_attn,39,LOC,испания
 qlora_r16_attn,40,LOC,сша
+qlora_r16_attn,41,ORG,lady gaga
 qlora_r16_attn,41,PER,тимати
 qlora_r16_attn,41,PER,селена гомез
-qlora_r16_attn,41,ORG,lady gaga
 qlora_r16_attn,48,LOC,сша
 qlora_r16_attn,51,PER,михаил мишустин
 qlora_r16_attn,51,LOC,рф
@@ -170,9 +170,9 @@ qlora_r16_attn,66,LOC,сша
 qlora_r16_attn,69,LOC,австралия
 qlora_r16_attn,74,ORG,верховная рада
 qlora_r16_attn,82,ORG,демократическая партия
-qlora_r16_attn,83,PER,николай булаева
-qlora_r16_attn,83,PER,наталья бударину
 qlora_r16_attn,83,ORG,центральный избирательный комитет россия (цик)
+qlora_r16_attn,83,PER,наталья бударину
+qlora_r16_attn,83,PER,николай булаева
 qlora_r16_attn,84,LOC,евросоюз
 qlora_r16_attn,92,ORG,московский суд
 qlora_r16_attn,93,LOC,москва
@@ -185,8 +185,8 @@ qlora_r16_attn,110,LOC,россия
 qlora_r16_attn,121,LOC,челябинская
 qlora_r16_attn,121,LOC,камчатская области
 qlora_r16_attn,129,ORG,bloomberg
-qlora_r16_attn,136,LOC,венгерские
 qlora_r16_attn,136,LOC,европа
+qlora_r16_attn,136,LOC,венгерские
 qlora_r16_attn,138,ORG,совет национальная безопасность и оборона
 qlora_r16_attn,145,ORG,еаэс
 qlora_r16_attn,148,LOC,санкт-петербург
@@ -205,26 +205,26 @@ qlora_r16_attn,202,PER,практикуя
 qlora_r16_attn,222,LOC,франция
 qlora_r16_attn,229,ORG,астрэзенeca
 qlora_r16_attn,229,ORG,еврокомиссия
-qlora_r16_attn,232,LOC,германия
 qlora_r16_attn,232,LOC,сша
+qlora_r16_attn,232,LOC,германия
 qlora_r16_attn,233,PER,дмитрий медведев
 qlora_r16_attn,242,ORG,федеральная антимонопольная служба
 qlora_r16_attn,248,LOC,россия
 qlora_r16_attn,249,PER,дмитрий муратов
 qlora_r16_attn,249,PER,алексей улюначников
-qlora_r16_attn,249,ORG,минэкономразвития
 qlora_r16_attn,249,LOC,рф
+qlora_r16_attn,249,ORG,минэкономразвития
 qlora_r16_attn,256,LOC,москва
 qlora_r16_attn,267,PER,жоэль ле скуарнек
 qlora_r16_attn,267,LOC,лорьяне
 qlora_r16_attn,275,LOC,приморье
 qlora_r16_attn,275,LOC,советский союз
 qlora_r16_attn,286,PER,никол пашинян
-qlora_r16_attn,293,ORG,совет безопасность
 qlora_r16_attn,293,LOC,киев
-qlora_r16_attn,299,PER,владимир путин
+qlora_r16_attn,293,ORG,совет безопасность
 qlora_r16_attn,299,PER,эммануэль макрон
 qlora_r16_attn,299,PER,ангела меркель
+qlora_r16_attn,299,PER,владимир путин
 qlora_r16_attn,302,ORG,следственный комитет
 qlora_r16_attn,304,LOC,россия
 qlora_r16_attn,308,PER,дизайнеранадежды славиной
@@ -234,10 +234,10 @@ qlora_r16_attn,315,LOC,россия
 qlora_r16_attn,321,PER,сергей цекова
 qlora_r16_attn,323,PER,энтони блинкен
 qlora_r16_attn,330,ORG,гуфсин
-qlora_r16_attn,339,LOC,украина
-qlora_r16_attn,339,PER,арсен аваков
 qlora_r16_attn,339,ORG,сбу
 qlora_r16_attn,339,LOC,киев
+qlora_r16_attn,339,PER,арсен аваков
+qlora_r16_attn,339,LOC,украина
 qlora_r16_attn,340,PER,дмитрий шишкин
 qlora_r16_attn,342,LOC,москва
 qlora_r16_attn,342,ORG,госдума
@@ -251,33 +251,33 @@ qlora_r16_attn,354,ORG,торгово-промышленная палата (т�
 qlora_r16_attn,355,LOC,подмосковье
 qlora_r16_attn,361,LOC,колумбией
 qlora_r16_attn,365,LOC,россия
-qlora_r16_attn,368,PER,дональд трамп
 qlora_r16_attn,368,PER,майк помпео
+qlora_r16_attn,368,PER,дональд трамп
 qlora_r16_attn,373,LOC,объединенные арабские
-qlora_r16_attn,380,LOC,новосибирская
 qlora_r16_attn,380,LOC,калужская области
+qlora_r16_attn,380,LOC,новосибирская
 qlora_r16_attn,380,LOC,костромская
 qlora_r16_attn,381,ORG,supergiant games hades
 qlora_r16_attn,382,LOC,турция
 qlora_r16_attn,384,ORG,министерство иностранные дела
 qlora_r16_attn,393,LOC,европа
 qlora_r16_attn,405,LOC,испания
-qlora_r16_attn,408,PER,сергей рябченко
 qlora_r16_attn,408,ORG,росавиация
+qlora_r16_attn,408,PER,сергей рябченко
 qlora_r16_attn,421,LOC,москва
 qlora_r16_attn,424,LOC,беларусь
 qlora_r16_attn,430,LOC,австралия
 qlora_r16_attn,442,LOC,австралия
-qlora_r16_attn,448,PER,дмитрий песков
 qlora_r16_attn,448,LOC,москва
 qlora_r16_attn,448,PER,владимир путин
+qlora_r16_attn,448,PER,дмитрий песков
 qlora_r16_attn,450,LOC,санкт-петербург
 qlora_r16_attn,452,PER,сергей лавров
 qlora_r16_attn,453,LOC,большая курильская гряда
 qlora_r16_attn,467,ORG,генассмблей
 qlora_r16_attn,471,ORG,национальная гвардия
-qlora_r16_attn,474,ORG,министерство здравоохранение
 qlora_r16_attn,474,LOC,россия
+qlora_r16_attn,474,ORG,министерство здравоохранение
 qlora_r16_attn,477,ORG,хамовнический суды
 qlora_r16_attn,486,LOC,рф
 qlora_r16_attn,487,PER,кристоф рэй
@@ -286,9 +286,9 @@ qlora_r16_attn,488,ORG,госдума
 qlora_r16_all,1,LOC,пенза
 qlora_r16_all,5,LOC,ростов великом
 qlora_r16_all,8,LOC,соединенных штаты
-qlora_r16_all,15,LOC,красноярск
 qlora_r16_all,15,PER,дмитрий медведев
 qlora_r16_all,15,ORG,госдума
+qlora_r16_all,15,LOC,красноярск
 qlora_r16_all,15,LOC,рф
 qlora_r16_all,29,LOC,дворец независимость
 qlora_r16_all,31,ORG,минздрав
@@ -323,22 +323,22 @@ qlora_r16_all,140,ORG,грц
 qlora_r16_all,145,ORG,еаэс
 qlora_r16_all,148,LOC,санкт-петербург
 qlora_r16_all,149,LOC,москва
-qlora_r16_all,150,LOC,москва
 qlora_r16_all,150,LOC,ереван
+qlora_r16_all,150,LOC,москва
 qlora_r16_all,160,ORG,фсб
 qlora_r16_all,169,PER,дмитрий медведев
 qlora_r16_all,184,LOC,европа
 qlora_r16_all,191,ORG,вооруженные силы
 qlora_r16_all,201,PER,дмитрий медведев
-qlora_r16_all,214,ORG,первый канал
-qlora_r16_all,214,PER,александр барышников
 qlora_r16_all,214,ORG,славянская речь
+qlora_r16_all,214,PER,александр барышников
+qlora_r16_all,214,ORG,первый канал
 qlora_r16_all,215,ORG,оон
 qlora_r16_all,222,LOC,франция
 qlora_r16_all,229,ORG,астрэзенeca
 qlora_r16_all,229,ORG,еврокомиссия
-qlora_r16_all,232,LOC,германия
 qlora_r16_all,232,LOC,сша
+qlora_r16_all,232,LOC,германия
 qlora_r16_all,233,PER,дмитрий медведев
 qlora_r16_all,242,ORG,федеральная антимонопольная служба
 qlora_r16_all,248,LOC,россия
@@ -363,20 +363,20 @@ qlora_r16_all,315,LOC,россия
 qlora_r16_all,320,ORG,региональное минздравование
 qlora_r16_all,321,PER,сергей цекова
 qlora_r16_all,326,PER,михаэль пандега
-qlora_r16_all,331,LOC,москва
-qlora_r16_all,331,ORG,оао «ростелеком»
-qlora_r16_all,331,ORG,интерфакс
-qlora_r16_all,331,LOC,россия
-qlora_r16_all,331,PER,сергей шахров
 qlora_r16_all,331,PER,шахров
-qlora_r16_all,339,LOC,украина
-qlora_r16_all,339,PER,арсен аваков
+qlora_r16_all,331,ORG,интерфакс
+qlora_r16_all,331,ORG,оао «ростелеком»
+qlora_r16_all,331,LOC,москва
+qlora_r16_all,331,PER,сергей шахров
+qlora_r16_all,331,LOC,россия
 qlora_r16_all,339,ORG,сбу
 qlora_r16_all,339,LOC,киев
+qlora_r16_all,339,PER,арсен аваков
+qlora_r16_all,339,LOC,украина
 qlora_r16_all,340,PER,александр шишкин
-qlora_r16_all,342,ORG,совет федерация
 qlora_r16_all,342,LOC,россия
 qlora_r16_all,342,ORG,госдума
+qlora_r16_all,342,ORG,совет федерация
 qlora_r16_all,346,PER,сергей цивилев
 qlora_r16_all,351,LOC,иордания
 qlora_r16_all,351,PER,джо байден
@@ -390,15 +390,15 @@ qlora_r16_all,363,LOC,дальневосточные
 qlora_r16_all,365,LOC,россия
 qlora_r16_all,368,PER,джо байден
 qlora_r16_all,368,PER,дональд трамп
-qlora_r16_all,380,LOC,новосибирская
 qlora_r16_all,380,LOC,калужская области
+qlora_r16_all,380,LOC,новосибирская
 qlora_r16_all,380,LOC,костромская
 qlora_r16_all,381,ORG,supergiant games hades
 qlora_r16_all,382,LOC,турция
 qlora_r16_all,382,ORG,минобороны
 qlora_r16_all,384,ORG,министерство иностранные дела
-qlora_r16_all,396,PER,анатолий гromov
 qlora_r16_all,396,ORG,всебелорусское народное собрание (внс)
+qlora_r16_all,396,PER,анатолий гromov
 qlora_r16_all,401,PER,дмитрий медведев
 qlora_r16_all,405,ORG,иб-компании zimperium
 qlora_r16_all,416,PER,дмитрий лебедев
@@ -407,16 +407,430 @@ qlora_r16_all,419,PER,александр гусев
 qlora_r16_all,421,LOC,москва
 qlora_r16_all,430,LOC,австралия
 qlora_r16_all,445,LOC,россия
-qlora_r16_all,448,PER,дмитрий песков
 qlora_r16_all,448,LOC,москва
 qlora_r16_all,448,PER,владимир путин
+qlora_r16_all,448,PER,дмитрий песков
 qlora_r16_all,450,LOC,санкт-петербург
 qlora_r16_all,453,LOC,большая курильская гряда
 qlora_r16_all,459,ORG,вашингтонский университет
 qlora_r16_all,471,ORG,нато
-qlora_r16_all,476,LOC,рф
 qlora_r16_all,476,ORG,минобороны
+qlora_r16_all,476,LOC,рф
 qlora_r16_all,487,PER,кристоф рэй
 qlora_r16_all,487,ORG,федеральная служба безопасность
 qlora_r16_all,488,ORG,госдума
 qlora_r16_all,492,ORG,сми
+qlora_r8_attn,5,LOC,ростов великом
+qlora_r8_attn,12,PER,александр головко
+qlora_r8_attn,13,ORG,массачусетская больница
+qlora_r8_attn,16,ORG,римско-католической церковь
+qlora_r8_attn,17,ORG,sony pictures
+qlora_r8_attn,21,ORG,верховный совет
+qlora_r8_attn,21,LOC,рф
+qlora_r8_attn,29,LOC,дворец независимость
+qlora_r8_attn,32,ORG,национальная ассоциация профессиональные коллекторские агентства
+qlora_r8_attn,39,LOC,испания
+qlora_r8_attn,40,LOC,сша
+qlora_r8_attn,40,PER,джеймс уэст
+qlora_r8_attn,48,LOC,сша
+qlora_r8_attn,51,PER,михаил мишустин
+qlora_r8_attn,51,LOC,рф
+qlora_r8_attn,52,ORG,новоалтайская городская больница
+qlora_r8_attn,58,PER,владимир титов
+qlora_r8_attn,62,ORG,трудовая партия
+qlora_r8_attn,64,PER,сергей лавров
+qlora_r8_attn,66,LOC,сша
+qlora_r8_attn,69,LOC,австралия
+qlora_r8_attn,74,ORG,верховная рада
+qlora_r8_attn,75,LOC,антарктика
+qlora_r8_attn,82,ORG,демократическая партия
+qlora_r8_attn,84,LOC,евросоюз
+qlora_r8_attn,87,ORG,еврокомиссия
+qlora_r8_attn,90,ORG,военно-морское управление
+qlora_r8_attn,92,ORG,центральный аэрогидродинамический институт имя профессор н. е. жуковский (цаги)
+qlora_r8_attn,92,ORG,московское окружное управление
+qlora_r8_attn,93,LOC,москва
+qlora_r8_attn,95,PER,игорь сердюков
+qlora_r8_attn,96,LOC,сша
+qlora_r8_attn,99,ORG,оон
+qlora_r8_attn,107,LOC,рф
+qlora_r8_attn,107,PER,александр текслер
+qlora_r8_attn,110,LOC,россия
+qlora_r8_attn,110,LOC,москва
+qlora_r8_attn,110,LOC,санкт-петербург
+qlora_r8_attn,115,PER,максим акомина
+qlora_r8_attn,120,LOC,рф
+qlora_r8_attn,120,ORG,автоновости.ru
+qlora_r8_attn,121,LOC,челябинская
+qlora_r8_attn,121,LOC,камчатская области
+qlora_r8_attn,128,PER,эберхард цорн
+qlora_r8_attn,129,ORG,bloomberg
+qlora_r8_attn,135,PER,владимир путин
+qlora_r8_attn,135,LOC,рф
+qlora_r8_attn,136,LOC,венгерские
+qlora_r8_attn,138,ORG,совет национальная безопасность и оборона
+qlora_r8_attn,141,ORG,возглавляемое
+qlora_r8_attn,148,LOC,санкт-петербург
+qlora_r8_attn,149,LOC,москва
+qlora_r8_attn,150,ORG,the washington post
+qlora_r8_attn,151,LOC,нью-йорк
+qlora_r8_attn,156,PER,вольфганг шойбле тихановская
+qlora_r8_attn,161,PER,урсула фон дер ляйен
+qlora_r8_attn,161,ORG,еврокомиссия
+qlora_r8_attn,170,PER,владимир путин
+qlora_r8_attn,184,LOC,европа
+qlora_r8_attn,185,PER,валентина смолякова
+qlora_r8_attn,191,ORG,вооруженные силы
+qlora_r8_attn,200,LOC,калифорнийский
+qlora_r8_attn,201,PER,дмитрий медведев
+qlora_r8_attn,202,PER,практикуя
+qlora_r8_attn,214,PER,ирина вязовской
+qlora_r8_attn,222,LOC,франция
+qlora_r8_attn,226,ORG,федеральное авиационное управление (faa)
+qlora_r8_attn,229,ORG,астрэзенeca
+qlora_r8_attn,229,ORG,еврокомиссия
+qlora_r8_attn,232,LOC,сша
+qlora_r8_attn,232,LOC,германия
+qlora_r8_attn,233,LOC,россия
+qlora_r8_attn,233,PER,владимир путин
+qlora_r8_attn,242,ORG,федеральная антимонопольная служба
+qlora_r8_attn,248,LOC,россия
+qlora_r8_attn,256,LOC,москва
+qlora_r8_attn,265,PER,джон керри
+qlora_r8_attn,267,PER,жоэль ле скуарнек
+qlora_r8_attn,267,LOC,лорьяне
+qlora_r8_attn,275,LOC,советский союз
+qlora_r8_attn,286,PER,никол пашинян
+qlora_r8_attn,293,LOC,украина
+qlora_r8_attn,293,ORG,снг
+qlora_r8_attn,293,LOC,киев
+qlora_r8_attn,297,LOC,рф
+qlora_r8_attn,299,PER,эмманюэль макрон
+qlora_r8_attn,299,PER,ангела меркель
+qlora_r8_attn,299,PER,владимир путин
+qlora_r8_attn,308,PER,дизайнеранадежды славиной
+qlora_r8_attn,310,ORG,игил
+qlora_r8_attn,313,ORG,еврокомиссия
+qlora_r8_attn,315,LOC,россия
+qlora_r8_attn,321,PER,сергей цекова
+qlora_r8_attn,323,PER,энтони блинкен
+qlora_r8_attn,340,PER,дмитрий шишкин
+qlora_r8_attn,342,LOC,россия
+qlora_r8_attn,342,ORG,госдума
+qlora_r8_attn,342,ORG,совет федерация
+qlora_r8_attn,351,PER,наварин беннет
+qlora_r8_attn,351,PER,джо байден
+qlora_r8_attn,352,LOC,москва
+qlora_r8_attn,352,LOC,московская область
+qlora_r8_attn,354,ORG,торгово-промышленная палата (тпп)
+qlora_r8_attn,355,LOC,подмосковье
+qlora_r8_attn,361,LOC,колумбией
+qlora_r8_attn,365,LOC,россия
+qlora_r8_attn,373,LOC,объединенные арабские
+qlora_r8_attn,374,PER,дмитрий бурматов
+qlora_r8_attn,380,LOC,калужская области
+qlora_r8_attn,380,LOC,новосибирская
+qlora_r8_attn,380,LOC,костромская
+qlora_r8_attn,381,ORG,supergiant games hades
+qlora_r8_attn,382,LOC,турция
+qlora_r8_attn,384,ORG,министерство иностранные дела
+qlora_r8_attn,393,LOC,европа
+qlora_r8_attn,402,LOC,соединенные штаты
+qlora_r8_attn,405,LOC,испания
+qlora_r8_attn,416,PER,алексей тарасов
+qlora_r8_attn,421,LOC,москва
+qlora_r8_attn,424,LOC,беларусь
+qlora_r8_attn,426,PER,анчей баранова
+qlora_r8_attn,427,ORG,государственная дума
+qlora_r8_attn,430,LOC,австралия
+qlora_r8_attn,442,LOC,австралия
+qlora_r8_attn,448,PER,владимир путин
+qlora_r8_attn,450,LOC,санкт-петербург
+qlora_r8_attn,453,LOC,большая курильская гряда
+qlora_r8_attn,458,LOC,япония
+qlora_r8_attn,471,ORG,национальная гвардия
+qlora_r8_attn,474,LOC,россия
+qlora_r8_attn,474,ORG,министерство здравоохранение
+qlora_r8_attn,477,LOC,шмитовский проспект
+qlora_r8_attn,484,PER,дмитрий песков
+qlora_r8_attn,486,PER,владимир путин
+qlora_r8_attn,487,PER,кристоф рэй
+qlora_r8_attn,487,ORG,федеральная служба безопасность
+qlora_r8_attn,488,LOC,российская федерация
+qlora_r8_attn,488,ORG,госдума
+lora_r16_attn,5,LOC,ростов великом
+lora_r16_attn,13,LOC,сша
+lora_r16_attn,16,PER,мустафа аль-казими
+lora_r16_attn,24,PER,сергей шойгу
+lora_r16_attn,26,ORG,социал-демократическая партия
+lora_r16_attn,29,LOC,дворец независимость
+lora_r16_attn,32,ORG,национальная ассоциация профессиональные коллекторские агентства
+lora_r16_attn,39,LOC,испания
+lora_r16_attn,48,LOC,сша
+lora_r16_attn,52,ORG,новоалтайская городская больница
+lora_r16_attn,55,PER,ефремов петр хархорин
+lora_r16_attn,58,PER,владимир титов
+lora_r16_attn,62,ORG,трудовая партия
+lora_r16_attn,66,LOC,сша
+lora_r16_attn,74,ORG,слуги народ
+lora_r16_attn,76,LOC,евросоюз
+lora_r16_attn,76,LOC,москва
+lora_r16_attn,77,LOC,евросоюз
+lora_r16_attn,82,ORG,демократическая партия
+lora_r16_attn,84,LOC,евросоюз
+lora_r16_attn,90,ORG,военно-морской центр надводная война
+lora_r16_attn,92,ORG,центральный аэрогидродинамический институт имя профессор н. е. жуковский
+lora_r16_attn,92,ORG,московское окружное управление
+lora_r16_attn,95,PER,игорь сердюков
+lora_r16_attn,96,LOC,сша
+lora_r16_attn,99,ORG,роспотребнадзор
+lora_r16_attn,103,ORG,московская биржа
+lora_r16_attn,107,ORG,министерство сельское хозяйство
+lora_r16_attn,107,LOC,рф
+lora_r16_attn,110,LOC,россия
+lora_r16_attn,116,PER,андрей кричевский
+lora_r16_attn,122,LOC,аделаида
+lora_r16_attn,135,LOC,рф
+lora_r16_attn,136,LOC,венгерские
+lora_r16_attn,145,ORG,еаэс
+lora_r16_attn,151,LOC,нью-йорк
+lora_r16_attn,161,LOC,европейский союз
+lora_r16_attn,170,PER,владимир путин
+lora_r16_attn,186,PER,алишер моргенштерн
+lora_r16_attn,191,ORG,вооруженные силы
+lora_r16_attn,200,LOC,калифорнийский
+lora_r16_attn,202,PER,практикуя
+lora_r16_attn,204,PER,мирану
+lora_r16_attn,209,LOC,рф
+lora_r16_attn,215,ORG,тил майдан
+lora_r16_attn,216,LOC,южная
+lora_r16_attn,217,LOC,бакум
+lora_r16_attn,222,LOC,франция
+lora_r16_attn,229,ORG,астрэзенeca
+lora_r16_attn,229,ORG,еврокомиссия
+lora_r16_attn,230,ORG,greenpeace
+lora_r16_attn,232,LOC,сша
+lora_r16_attn,232,LOC,германия
+lora_r16_attn,233,LOC,россия
+lora_r16_attn,233,PER,владимир путин
+lora_r16_attn,233,LOC,дальневосточный федеральный округ
+lora_r16_attn,242,ORG,федеральная антимонопольная служба
+lora_r16_attn,248,LOC,россия
+lora_r16_attn,249,PER,дмитрий муратов
+lora_r16_attn,249,LOC,рф
+lora_r16_attn,256,LOC,москва
+lora_r16_attn,260,LOC,россия
+lora_r16_attn,267,PER,жоэль ле скуарнек
+lora_r16_attn,267,LOC,лорьяне
+lora_r16_attn,270,ORG,национальный фonda
+lora_r16_attn,272,LOC,сша
+lora_r16_attn,275,LOC,советский союз
+lora_r16_attn,278,ORG,сбербанк
+lora_r16_attn,286,PER,арманд пашинян
+lora_r16_attn,288,PER,есихидэ суг
+lora_r16_attn,292,PER,ричард ричард
+lora_r16_attn,294,ORG,ассоциация банки россия
+lora_r16_attn,295,LOC,беларусь
+lora_r16_attn,298,PER,наджи агбалы
+lora_r16_attn,299,PER,эмманюэль макрон
+lora_r16_attn,299,PER,ангела меркель
+lora_r16_attn,299,PER,владимир путин
+lora_r16_attn,299,LOC,кишинев
+lora_r16_attn,302,ORG,следственный комитет
+lora_r16_attn,304,LOC,тамбовский край
+lora_r16_attn,308,LOC,московская область
+lora_r16_attn,308,LOC,ленинградский район
+lora_r16_attn,313,ORG,еврокомиссия
+lora_r16_attn,315,LOC,россия
+lora_r16_attn,318,PER,серж саргсян
+lora_r16_attn,322,ORG,совет национальная безопасность
+lora_r16_attn,329,ORG,министерство оборона
+lora_r16_attn,331,PER,путин
+lora_r16_attn,331,LOC,крым
+lora_r16_attn,331,ORG,мид
+lora_r16_attn,331,PER,лавров
+lora_r16_attn,331,LOC,россия
+lora_r16_attn,331,PER,владимир путин
+lora_r16_attn,331,LOC,рф
+lora_r16_attn,331,PER,сергей лавров
+lora_r16_attn,340,PER,дмитрий ливанов
+lora_r16_attn,342,ORG,единая россия
+lora_r16_attn,342,ORG,народный фронт
+lora_r16_attn,342,ORG,госдума
+lora_r16_attn,342,ORG,совет федерация
+lora_r16_attn,342,LOC,россия
+lora_r16_attn,346,LOC,римский
+lora_r16_attn,346,PER,сергей цивилев
+lora_r16_attn,350,PER,владимир гройсман
+lora_r16_attn,351,PER,наварбет
+lora_r16_attn,351,PER,джо байден
+lora_r16_attn,352,LOC,москва
+lora_r16_attn,355,LOC,подмосковье
+lora_r16_attn,361,LOC,колумбией
+lora_r16_attn,365,LOC,россия
+lora_r16_attn,381,ORG,supergiant games hades
+lora_r16_attn,382,ORG,министерство лесное хозяйство
+lora_r16_attn,382,LOC,турция
+lora_r16_attn,384,ORG,министерство иностранные дела
+lora_r16_attn,393,LOC,европа
+lora_r16_attn,397,ORG,министерство внутренние дела
+lora_r16_attn,421,LOC,москва
+lora_r16_attn,424,LOC,беларусь
+lora_r16_attn,427,ORG,государственная дума
+lora_r16_attn,430,LOC,франция
+lora_r16_attn,442,LOC,австралия
+lora_r16_attn,443,PER,марк уолберг
+lora_r16_attn,445,ORG,российский центральный суд
+lora_r16_attn,448,LOC,москва
+lora_r16_attn,448,PER,владимир путин
+lora_r16_attn,450,LOC,санкт-петербург
+lora_r16_attn,452,PER,сергей лавров
+lora_r16_attn,454,LOC,гамалея
+lora_r16_attn,458,LOC,россия
+lora_r16_attn,467,LOC,юго-восточная азия
+lora_r16_attn,471,ORG,национальная гвардия
+lora_r16_attn,477,LOC,шмитовский проспект
+lora_r16_attn,484,PER,александр дуб
+lora_r16_attn,487,PER,кристоф рэй
+lora_r16_attn,487,ORG,федеральная служба безопасность
+lora_r16_attn,488,LOC,россия
+qlora_r8_multi,5,LOC,ростов великом
+qlora_r8_multi,13,ORG,массачусетская больница
+qlora_r8_multi,17,PER,доктор стрэндж
+qlora_r8_multi,22,PER,анджело лех
+qlora_r8_multi,24,ORG,министерство оборона
+qlora_r8_multi,24,ORG,совет федерация
+qlora_r8_multi,29,LOC,дворец независимость
+qlora_r8_multi,30,ORG,центральный институт социология (вциом)
+qlora_r8_multi,32,ORG,национальная ассоциация профессиональные коллекторские агентства
+qlora_r8_multi,39,LOC,испания
+qlora_r8_multi,40,LOC,сша
+qlora_r8_multi,40,PER,джеймс уэст
+qlora_r8_multi,48,LOC,сша
+qlora_r8_multi,51,PER,михаил мишустин
+qlora_r8_multi,51,LOC,рф
+qlora_r8_multi,52,ORG,новоалтайская городская больница
+qlora_r8_multi,58,PER,владимир титов
+qlora_r8_multi,62,ORG,трудовая партия
+qlora_r8_multi,66,LOC,сша
+qlora_r8_multi,73,LOC,сша
+qlora_r8_multi,74,ORG,верховная рада
+qlora_r8_multi,74,LOC,россия
+qlora_r8_multi,82,ORG,демократическая партия
+qlora_r8_multi,84,LOC,евросоюз
+qlora_r8_multi,92,ORG,московское окружное управление
+qlora_r8_multi,96,LOC,сша
+qlora_r8_multi,105,ORG,министерство иностранные дела
+qlora_r8_multi,105,LOC,москва
+qlora_r8_multi,112,PER,антон шпигельский
+qlora_r8_multi,112,LOC,рф
+qlora_r8_multi,113,LOC,европа
+qlora_r8_multi,113,LOC,владениями
+qlora_r8_multi,115,ORG,белорусский национальный союз
+qlora_r8_multi,119,PER,высоцкий владимир сергеевич
+qlora_r8_multi,120,LOC,рф
+qlora_r8_multi,128,PER,эберхард цорн
+qlora_r8_multi,131,ORG,роспотребнадзор
+qlora_r8_multi,135,PER,владимир путин
+qlora_r8_multi,135,LOC,рф
+qlora_r8_multi,136,LOC,европа
+qlora_r8_multi,136,LOC,венгерские
+qlora_r8_multi,138,ORG,совет национальная безопасность и оборона
+qlora_r8_multi,141,ORG,возглавляемое
+qlora_r8_multi,149,LOC,москва
+qlora_r8_multi,151,LOC,нью-йорк
+qlora_r8_multi,151,PER,джеральд бриттла
+qlora_r8_multi,161,LOC,европейский союз
+qlora_r8_multi,180,ORG,федеральная служба исполнение наказания
+qlora_r8_multi,180,ORG,центральный банк
+qlora_r8_multi,180,ORG,федеральная антимонопольная служба
+qlora_r8_multi,180,PER,игорь артемьев
+qlora_r8_multi,180,PER,антон силуанов
+qlora_r8_multi,180,PER,александр бочарников
+qlora_r8_multi,180,ORG,минфин
+qlora_r8_multi,180,PER,эльвира набиуллина
+qlora_r8_multi,184,LOC,европа
+qlora_r8_multi,191,ORG,вооруженные силы
+qlora_r8_multi,201,PER,дмитрий медведев
+qlora_r8_multi,202,PER,практикуя
+qlora_r8_multi,205,LOC,сша
+qlora_r8_multi,205,LOC,россия
+qlora_r8_multi,212,ORG,международный трибунал
+qlora_r8_multi,215,PER,дауреном абаевом
+qlora_r8_multi,222,LOC,франция
+qlora_r8_multi,229,ORG,астрэзенeca
+qlora_r8_multi,229,ORG,еврокомиссия
+qlora_r8_multi,232,LOC,сша
+qlora_r8_multi,232,LOC,германия
+qlora_r8_multi,233,LOC,россия
+qlora_r8_multi,233,PER,владимир путин
+qlora_r8_multi,233,LOC,дальневосточный федеральный округ
+qlora_r8_multi,242,ORG,федеральная антимонопольная служба
+qlora_r8_multi,248,LOC,россия
+qlora_r8_multi,256,LOC,москва
+qlora_r8_multi,267,PER,жоэль ле скуарнек
+qlora_r8_multi,267,PER,женою
+qlora_r8_multi,269,LOC,россия
+qlora_r8_multi,275,LOC,приморье
+qlora_r8_multi,275,LOC,советский союз
+qlora_r8_multi,286,PER,никол пашинян
+qlora_r8_multi,293,LOC,киев
+qlora_r8_multi,293,ORG,международный валютный фонд
+qlora_r8_multi,293,ORG,совет европа
+qlora_r8_multi,294,LOC,рф
+qlora_r8_multi,296,PER,светлана тихановскую
+qlora_r8_multi,304,LOC,россия
+qlora_r8_multi,304,LOC,тамбовский край
+qlora_r8_multi,308,PER,надежда славина
+qlora_r8_multi,313,ORG,еврокомиссия
+qlora_r8_multi,315,LOC,россия
+qlora_r8_multi,322,PER,зеленская
+qlora_r8_multi,323,PER,энтони блинкен
+qlora_r8_multi,340,PER,дмитрий шишкин
+qlora_r8_multi,342,LOC,москва
+qlora_r8_multi,342,ORG,госдума
+qlora_r8_multi,346,PER,сергей цивилев
+qlora_r8_multi,350,ORG,блок петр порошенко
+qlora_r8_multi,350,ORG,трехсторонняя контактная группа
+qlora_r8_multi,351,PER,наварин беннет
+qlora_r8_multi,351,PER,джо байден
+qlora_r8_multi,352,LOC,москва
+qlora_r8_multi,352,LOC,московская область
+qlora_r8_multi,355,LOC,подмосковье
+qlora_r8_multi,361,LOC,колумбией
+qlora_r8_multi,363,PER,владимир путин
+qlora_r8_multi,365,LOC,россия
+qlora_r8_multi,376,ORG,мид
+qlora_r8_multi,376,PER,сергей лавров
+qlora_r8_multi,376,LOC,рф
+qlora_r8_multi,380,LOC,калужская области
+qlora_r8_multi,380,LOC,новосибирская
+qlora_r8_multi,380,LOC,костромская
+qlora_r8_multi,381,ORG,supergiant games hades
+qlora_r8_multi,382,LOC,турция
+qlora_r8_multi,384,ORG,министерство иностранные дела
+qlora_r8_multi,394,LOC,европейский союз
+qlora_r8_multi,402,LOC,соединенные штаты
+qlora_r8_multi,402,ORG,cdc
+qlora_r8_multi,405,ORG,иб-компании zimperium
+qlora_r8_multi,408,ORG,межгосударственный авиакомитет (мак)
+qlora_r8_multi,413,ORG,совет федерация
+qlora_r8_multi,416,PER,алексей тарасов
+qlora_r8_multi,419,ORG,министерство транспорт и коммуникации
+qlora_r8_multi,421,LOC,москва
+qlora_r8_multi,424,LOC,беларусь
+qlora_r8_multi,427,ORG,государственная дума
+qlora_r8_multi,430,LOC,австралия
+qlora_r8_multi,442,LOC,австралия
+qlora_r8_multi,448,PER,владимир путин
+qlora_r8_multi,450,LOC,санкт-петербург
+qlora_r8_multi,453,LOC,южное полушарие
+qlora_r8_multi,471,ORG,нато
+qlora_r8_multi,474,LOC,россия
+qlora_r8_multi,474,ORG,министерство здравоохранение
+qlora_r8_multi,477,ORG,хамовнический суды
+qlora_r8_multi,484,PER,дмитрий песков
+qlora_r8_multi,487,PER,кристоф рэй
+qlora_r8_multi,487,ORG,федеральная служба безопасность
+qlora_r8_multi,488,ORG,госдума
+qlora_r8_multi,493,LOC,российская федерация
